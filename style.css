@@ -8,7 +8,7 @@
 
 .background1 {
     height: 695px;
-    background-image: url(gambar/Background.png.webp);
+    background-image: url(Background.png.webp);
     background-size:cover;
     background-repeat: no-repeat;
     position: static;
@@ -101,7 +101,7 @@
 .penjelasan1 {
     position: absolute;
     z-index: 2;
-    background-image: url(gambar/penjelasan.png.webp);
+    background-image: url(penjelasan.png.webp);
     width: 650px;
     height: 405px;
     border: 5px solid black;
@@ -125,7 +125,7 @@
 .penjelasan2 {
     position: absolute;
     z-index: 3;
-    background-image: url(gambar/penjelasan2.png.jpg);
+    background-image: url(penjelasan2.png.jpg);
     width: 650px;
     height: 405px;
     border: 5px solid black;
@@ -174,7 +174,7 @@
 }
 
 .bulat{
-    background-image: url(gambar/Cybersecurity.jpg);
+    background-image: url(Cybersecurity.jpg);
     object-fit: cover;
     background-size: cover;
     max-width: 250px;
@@ -195,7 +195,7 @@
 }
 
 .bulat2{
-    background-image: url(gambar/Konsultasi\ IT.jpeg);
+    background-image: url(Konsultasi\ IT.jpeg);
     background-size: cover;
     max-width: 250px;
     height: 250px;
@@ -215,7 +215,7 @@
 }
 
 .bulat3{
-    background-image: url(gambar/Cloud-Computing.webp);
+    background-image: url(Cloud-Computing.webp);
     object-fit: cover;
     background-size: cover;
     max-width: 290px;
@@ -234,7 +234,7 @@
 }
 
 .bulat4{
-    background-image: url(gambar/ISMS.jpg);
+    background-image: url(ISMS.jpg);
     background-size: cover;
     max-width: 250px;
     height: 250px;
@@ -261,7 +261,7 @@
 
 .review{
     position: absolute;
-    background-image: url(gambar/review.webp);
+    background-image: url(review.webp);
     background-position: center;
     background-size: cover;
     width: 600px;
